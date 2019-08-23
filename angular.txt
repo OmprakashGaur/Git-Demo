@@ -1,0 +1,4 @@
+# git-demo
+
+  	Angular is powerfull javascript framework developed by Google Inc.
+	Current Angular version is 7. 
